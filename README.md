@@ -6,7 +6,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 ## Summary
 
 [Week_1](#week_1):
-* total points gained = 5.9
+* total points gained = 7.1
 
 ------------------------------------------------
 
@@ -17,3 +17,4 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 1. [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/StuckInATimeLoop/src/Main.java) : Difficulty=1.2
 1. [Solving for Carrots](https://open.kattis.com/problems/carrots) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots/src/Main.java) : Difficulty=1.2
 1. [R2](https://open.kattis.com/problems/r2) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2/src/Main.java) : Difficulty=1.2
+1. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year/src/Main.java) : Difficulty=1.2
