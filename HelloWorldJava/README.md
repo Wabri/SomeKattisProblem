@@ -1,8 +1,7 @@
 
-Hello World!
-Input
+# Hello World!
 
+## Input
 There is no input for this problem.
-Output
-
+## Output
 Output should contain one line, containing the string “Hello World!”.
