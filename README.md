@@ -6,7 +6,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 ## Summary
 
 [Week_1](#week_1):
-* total points = 11.9
+* Rank = 18373
+* Score = 11.9
 
 ------------------------------------------------
 
