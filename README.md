@@ -18,3 +18,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 1. [Solving for Carrots](https://open.kattis.com/problems/carrots) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots/src/Main.java)
 1. [R2](https://open.kattis.com/problems/r2) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2/src/Main.java)
 1. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year/src/Main.java)
+1. [Quadrant Selection](https://open.kattis.com/problems/quadrant) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java)
+1. [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java)
+1. [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) : [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java)
