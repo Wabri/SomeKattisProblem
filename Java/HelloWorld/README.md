@@ -1,5 +1,6 @@
 
 # Hello World!
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello)
 
 ## Input
 There is no input for this problem.
