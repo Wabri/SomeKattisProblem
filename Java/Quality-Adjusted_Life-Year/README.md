@@ -1,6 +1,7 @@
-
 # Quality-Adjusted Life-Year
- 
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly)
+
 The Quality-Adjusted Life-Year (QALY) is a way to measure a person’s quality of life that includes both the quality and the quantity of life lived.
 The quality of life lived can be quantified as a number between 0 and 1. If someone is living with perfect health, the quality of life is 1. If someone is dead, then the quality of life is 0. The quality of life may increase or decrease due to medical treatements, sickness, etc.
 
