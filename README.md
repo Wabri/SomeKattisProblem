@@ -27,6 +27,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Last Factorial Digit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | [Hissing Microphone](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
 | [Autori](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
+| [Take Two Stones](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 
 --------------------------------------------------
 
@@ -46,6 +47,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 6 | *25* | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java) |
 | 7 | *25* | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) |
 | 8 | *25* | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) |
-| 9 | *26* | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | 
+| 9 | *26* | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) |
+| 10 | *26* | [Autori](https://open.kattis.com/problems/twostones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) | 
 
 --------------------------------------------------
