@@ -4,11 +4,15 @@ I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](h
 
 Mostly of the problems are solved with java, but I want to reproduce every problem with python and c++ (one day).
 
+--------------------------------------------------
+
 ## Summary Weeks
 
 | Week | Rank | Score |
 | - | - | - |
 | [1](#week_1) | 18373 | 11.9 |
+
+----------------------------------------------------
 
 ## Summary Problems
 | Problem | Languages | Week | :link: |
@@ -23,7 +27,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Last Factorial Digit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | [Hissing Microphone](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
 
-------------------------------------------------
+--------------------------------------------------
 
 ### Week_1
 *21 gen 2019 - 27 gen 2019*
@@ -39,3 +43,5 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 6 | *25 gen 2019* | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java) |
 | 7 | *25 gen 2019* | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) |
 | 8 | *25 gen 2019* | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java Solution](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) |
+
+--------------------------------------------------
