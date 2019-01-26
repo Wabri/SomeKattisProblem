@@ -1,4 +1,7 @@
 # Last Factorial Digit
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit)
+
 The factorial of N, written as N!, is defined as the product of all the integers from 1 to N. For example, 3!=1×2×3=6.
 
 This number can be very large, so instead of computing the entire product, just compute the last digit of N! (when N! is written in base 10).
