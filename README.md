@@ -33,7 +33,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 ## Weeks
 
-### Week_1
+### Week 1
 *21 January 2019 - 27 January 2019*
 
 | Number | Day | Problem | Solution |
