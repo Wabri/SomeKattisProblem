@@ -1,5 +1,6 @@
-
 # Quadrant Selection
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant)
 
 A common problem in mathematics is to determine which quadrant a given point lies in. There are four quadrants, numbered from 1
 to 4. For example, the point (12,5) lies in quadrant 1 since both its x and y values are positive, and point (-12,5) lies in quadrant 2 since its x value is negative and its y value is positive.
