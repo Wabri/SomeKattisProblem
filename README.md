@@ -26,7 +26,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Quadrant Selection](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
 | [Last Factorial Digit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
 | [Hissing Microphone](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
-| [Autori](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
+| [Autori](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 
 --------------------------------------------------
 
