@@ -1,5 +1,6 @@
-
 # Hissing Microphone
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone)
 
 A known problem with some microphones is the “hissing s”. That is, sometimes the sound of the letter s is particularly pronounced; it stands out from the rest of the word in an unpleasant way. Of particular annoyance are words that contain the letter s twice in a row. Words like amiss, kiss, mississippi and even hiss itself.
 
