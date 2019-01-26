@@ -8,7 +8,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 ## Summary Weeks
 
-| Week | Rank | Score | Problem Solved |
+| Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 16379 | 14.2 | 11 |
 
