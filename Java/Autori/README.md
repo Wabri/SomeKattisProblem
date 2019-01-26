@@ -1,4 +1,6 @@
-# Autori
+# Autori 
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori)
 
 Great scientific discoveries are often named by the last names of scientists that made them. For example, the most popular asymmetric cryptography system, RSA was discovered by Rivest, Shamir and Adleman. Another notable example is the Knuth-Morris-Pratt algorithm, named by Knuth, Morris and Pratt.
 
