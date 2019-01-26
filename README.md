@@ -30,7 +30,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 --------------------------------------------------
 
 ### Week_1
-*21/01/2019 - 27/01/2019*
+*21 January 2019 - 27 January 2019*
 
 | Number | Date (dd/mm/yyyy) | Problem | Solution |
 | - | - | - | - |
