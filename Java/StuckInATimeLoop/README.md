@@ -1,5 +1,6 @@
-
 # Stuck In A Time Loop
+
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop)
 
 Last night when you went to sleep, you had a strange feeling that you may see the same day again. And your strange feeling came to bewhen you woke up, everyone seemed to think that it was yesterday morning! The same strange feeling came back in the evening.
 
