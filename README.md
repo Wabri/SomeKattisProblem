@@ -10,24 +10,24 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 | Week | Rank | Score | Problem Solved |
 | - | - | - | - |
-| [1](#week_1) | 18373 | 14.2 | 11 |
+| [1](#week-1) | 16379 | 14.2 | 11 |
 
 ----------------------------------------------------
 
 ## Summary Problems
 | Problem | Languages | Week | :link: |
 | - | - | - | - |
-| [Hello World!](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HelloWorld) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HelloWorld/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello) |
-| [Tarifa](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Tarifa) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Tarifa/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
-| [Stuck In A Time Loop](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/StuckInATimeLoop) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/StuckInATimeLoop/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
-| [Solving for Carrots](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) | 
-| [R2](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
-| [Quality-Adjusted Life-Year](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
-| [Quadrant Selection](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
-| [Last Factorial Digit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
-| [Hissing Microphone](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
-| [Autori](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
-| [Take Two Stones](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) | [Week 1](#week_1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
+| [Hello World!](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HelloWorld) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HelloWorld/src/Main.java) | [Week 1](##week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello) |
+| [Tarifa](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Tarifa) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Tarifa/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
+| [Stuck In A Time Loop](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/StuckInATimeLoop) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/StuckInATimeLoop/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
+| [Solving for Carrots](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SolvingForCarrots/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) | 
+| [R2](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/R2/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
+| [Quality-Adjusted Life-Year](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Quality-Adjusted_Life-Year/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/qaly) |
+| [Quadrant Selection](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/QuadrantSelection/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
+| [Last Factorial Digit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LastFactorialDigit/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit) |
+| [Hissing Microphone](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HissingMicrophone/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
+| [Autori](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Autori/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
+| [Take Two Stones](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 
 --------------------------------------------------
 
