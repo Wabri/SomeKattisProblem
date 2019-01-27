@@ -55,7 +55,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 11 | *27* | [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Sibice/src/Main.java) |
 | 12 | *27* | [Planina](https://open.kattis.com/problems/planina) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Planina/src/Main.java) |
 
-### Week 1
+### Week 2
 *28 January 2019 - 3 February 2019*
 
 | Number | Day | Problem | Solution |
