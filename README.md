@@ -11,6 +11,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
+| [2](#week-2) | ---- | ---- | ---- |
 
 ----------------------------------------------------
 
@@ -53,5 +54,12 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 10 | *26* | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) |
 | 11 | *27* | [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Sibice/src/Main.java) |
 | 12 | *27* | [Planina](https://open.kattis.com/problems/planina) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Planina/src/Main.java) |
+
+### Week 1
+*28 January 2019 - 3 February 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *28* | [Hello World!]() | [Java]() |
 
 --------------------------------------------------
