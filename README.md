@@ -10,7 +10,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 | Week | Rank | Score | Solved |
 | - | - | - | - |
-| [1](#week-1) | 1474 | 16.7 | 13 |
+| [1](#week-1) | 14724 | 16.7 | 13 |
 
 ----------------------------------------------------
 
