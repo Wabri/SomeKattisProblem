@@ -2,7 +2,7 @@
 
 I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
 
-Mostly of the problems are solved with java, but I want to reproduce every problem with python and c++ (one day).
+Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
 
 --------------------------------------------------
 
