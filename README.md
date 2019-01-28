@@ -11,7 +11,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | ---- | ---- | ---- |
+| [2](#week-2) | ---- | ---- | 2 |
 
 ----------------------------------------------------
 
@@ -31,6 +31,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Take Two Stones](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/TakeTwoStones/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | [Sibice](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Sibice) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Sibice/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
 | [Planina](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Planina) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Planina/src/Main.java) | [Week 1](#week-1) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
+| [Filip](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Filip) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Filip/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
+| [Faktor](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 
 --------------------------------------------------
 
@@ -60,6 +62,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
-| 0 | *28* | [Hello World!]() | [Java]() |
+| 0 | *28* | [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Filip/src/Main.java) |
+| 1 | *28* | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor/src/Main.java) |
 
 --------------------------------------------------
