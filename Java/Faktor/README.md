@@ -1,6 +1,6 @@
 # Faktor
 
-![:cat:](https://open.kattis.com/problems/faktor)
+[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor)
 
 The impact factor of a scientific journal is a measure reflecting the average number of citations to articles published in science journals. For this task we are using a simplified formula for calculating the impact factor:
 (Total count of citations received by articles published in the journal) / (Total number of articles published)
