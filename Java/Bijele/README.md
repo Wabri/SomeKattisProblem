@@ -4,17 +4,17 @@
 
 Mirko has found an old chessboard and a set of pieces in his attic. Unfortunately, the set contains only white pieces, and apparently an incorrect number of them. A set of pieces should contain:
 
-    * One king
+    One king
 
-    * One queen
+    One queen
 
-    * Two rooks
+    Two rooks
 
-    * Two bishops
+    Two bishops
 
-    * Two knights
+    Two knights
 
-    * Eight pawns
+    Eight pawns
 
 Mirko would like to know how many pieces of each type he should add or remove to make a valid set.
 
