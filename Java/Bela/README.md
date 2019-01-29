@@ -11,8 +11,8 @@ was the dominant suit.
 
 The value of each card depends on its number and whether its suit is dominant, and is given in Table 1.
 
-| Number | Value | 
-| - | Dominant | Not Dominant |
+| Number | Value Dominant | Value not Dominant |
+| - | - | - |
 | A | 11 | 11 |
 | K | 4 | 4 |
 | Q | 3 | 3 |
