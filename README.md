@@ -11,7 +11,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 12022 | 21.7 | 4 |
+| [2](#week-2) | 11602 | 22.9 | 6 |
 
 ----------------------------------------------------
 
@@ -35,6 +35,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Faktor](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 | [Bijele](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bijele) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bijele/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
 | [Bela](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/Bela) |
+| [Oddities](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
+| [Zamka](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
 
 --------------------------------------------------
 
@@ -68,5 +70,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *28* | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor/src/Main.java) |
 | 2 | *29* | [Bijele](https://open.kattis.com/problems/Bijele) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bijele/src/Main.java) |
 | 3 | *30* | [Bela](https://open.kattis.com/problems/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) |
+| 4 | *31* | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/oddities/src/Main.java) |
+| 5 | *31* | [Zamka](https://open.kattis.com/problems/Zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) |
 
 --------------------------------------------------
