@@ -70,7 +70,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *28* | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Faktor/src/Main.java) |
 | 2 | *29* | [Bijele](https://open.kattis.com/problems/Bijele) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bijele/src/Main.java) |
 | 3 | *30* | [Bela](https://open.kattis.com/problems/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) |
-| 4 | *31* | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/oddities/src/Main.java) |
+| 4 | *31* | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) |
 | 5 | *31* | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) |
 
 --------------------------------------------------
