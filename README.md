@@ -37,7 +37,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Bela](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/Bela) |
 | [Oddities](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | [Zamka](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
-
+| [Zamka](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 --------------------------------------------------
 
 ## Weeks
@@ -72,5 +72,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 3 | *30* | [Bela](https://open.kattis.com/problems/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) |
 | 4 | *31* | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) |
 | 5 | *31* | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) |
+| 6 | *1* | [Zamka](https://open.kattis.com/problems/pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/pot/src/Main.java) |
 
 --------------------------------------------------
