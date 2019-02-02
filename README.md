@@ -13,7 +13,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 10357 | 26.8 | 8 |
+| [2](#week-2) | 10357 | 26.8 | 9 |
 
 ----------------------------------------------------
 
@@ -41,6 +41,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Zamka](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
 | [Pot](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | [Trik](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
+| [Speed Limit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 --------------------------------------------------
 
 ## Weeks
@@ -77,5 +78,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 5 | *31* | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) |
 | 6 | *1* | [Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot/src/Main.java) |
 | 7 | *2* | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) |
+| 8 | *2* | [Trik](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) |
 
 --------------------------------------------------
