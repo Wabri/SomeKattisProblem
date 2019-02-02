@@ -4,6 +4,8 @@ I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](h
 
 Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
 
+###### *All the kattis problem are ~2300, so I will complete the challenge in 2025, if everything goes ok*
+
 --------------------------------------------------
 
 ## Summary Weeks
