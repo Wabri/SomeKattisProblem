@@ -11,7 +11,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 10703 | 27.0 | 8 |
+| [2](#week-2) | 10357 | 26.8 | 8 |
 
 ----------------------------------------------------
 
