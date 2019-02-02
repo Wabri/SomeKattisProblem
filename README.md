@@ -11,7 +11,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 10703 | 25.6 | 7 |
+| [2](#week-2) | 10703 | 27.0 | 8 |
 
 ----------------------------------------------------
 
@@ -38,6 +38,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Oddities](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | [Zamka](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
 | [Pot](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
+| [Trik](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 --------------------------------------------------
 
 ## Weeks
@@ -72,6 +73,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 3 | *30* | [Bela](https://open.kattis.com/problems/Bela) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Bela/src/Main.java) |
 | 4 | *31* | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Oddities/src/Main.java) |
 | 5 | *31* | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Zamka/src/Main.java) |
-| 6 | *1* | [Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/pot/src/Main.java) |
+| 6 | *1* | [Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pot/src/Main.java) |
+| 7 | *2* | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) |
 
 --------------------------------------------------
