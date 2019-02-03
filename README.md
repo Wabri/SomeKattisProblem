@@ -43,7 +43,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Trik](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | [Speed Limit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | [Spavanac](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
-| [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](##week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
+| [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
 
 --------------------------------------------------
 
