@@ -13,7 +13,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 9674 | 29.3 | 10 |
+| [2](#week-2) | 9688 | 30.6 | 11 |
 
 ----------------------------------------------------
 
@@ -43,6 +43,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Trik](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | [Speed Limit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | [Spavanac](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
+| [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](##week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
 
 --------------------------------------------------
 
@@ -82,5 +83,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 7 | *2* | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) |
 | 8 | *2* | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) |
 | 9 | *3* | [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) |
+| 10 | *3* | [ProvincesAndGold](https://open.kattis.com/problems/provincesandgold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) |
 
 --------------------------------------------------
