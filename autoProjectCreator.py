@@ -18,7 +18,7 @@ import sys
 # 2 -> auto get number of week problem
 # 3 -> auto get number of day of the week
 
-projectName = sys.argv[2].capitalize()
+projectName = sys.argv[2]
 if (len(sys.argv) == 3):
     kattisName = sys.argv[3]
 else:
