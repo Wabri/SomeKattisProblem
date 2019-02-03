@@ -64,7 +64,7 @@ if sys.argv[1] == "java":
         newSummaryProblems = "| [{}]".format(projectName) + \
             "(https://github.com/Wabri/AKattisProblemPerDay/blob/master/{}/{}) |".format(sys.argv[1].capitalize(), projectName) + \
             " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.java) |".format(sys.argv[1].capitalize(), projectName) + \
-            " [Week {0}](##week-{0}) |".format(sys.argv[4]) + \
+            " [Week {0}](#week-{0}) |".format(sys.argv[4]) + \
             " [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/{}) |\r\n".format(kattisName)
         newWeekProblem = "| {} | *{}* |".format(sys.argv[5], sys.argv[6]) + \
             " [{}](https://open.kattis.com/problems/{}) |".format(projectName, kattisName) + \
