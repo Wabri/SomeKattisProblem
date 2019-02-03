@@ -69,7 +69,7 @@ if sys.argv[1] == "java":
         newWeekProblem = "| {} | *{}* |".format(sys.argv[5], sys.argv[6]) + \
             " [{}](https://open.kattis.com/problems/{}) |".format(projectName, kattisName) + \
             " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.java) |\r\n".format(
-                sys.argv[1], projectName)
+                sys.argv[1].capitalize(), projectName)
         with open("README.md", "r") as readme:
             linesInFileProject = readme.readlines()
             for index in range(len(linesInFileProject)):
