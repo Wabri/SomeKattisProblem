@@ -82,4 +82,5 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 7 | *2* | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) |
 | 8 | *2* | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) |
 | 9 | *3* | [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) |
+
 --------------------------------------------------
