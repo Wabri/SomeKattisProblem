@@ -14,6 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
+| [3](#week-3) | 9688 | 30.6 | 0 |
 
 ----------------------------------------------------
 
@@ -44,6 +45,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Speed Limit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | [Spavanac](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
 | [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
+| [Pet](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 
 --------------------------------------------------
 
@@ -85,4 +87,10 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 9 | *3* | [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) |
 | 10 | *3* | [ProvincesAndGold](https://open.kattis.com/problems/provincesandgold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) |
 
+### Week 3
+*4 Febbruary 2019 - 10 February 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *4* | [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) |
 --------------------------------------------------

@@ -19,10 +19,7 @@ import sys
 # 3 -> auto get number of day of the week
 
 projectName = sys.argv[2]
-if (len(sys.argv) == 3):
-    kattisName = sys.argv[3]
-else:
-    kattisName = projectName.lower()
+kattisName = sys.argv[3]
 
 print("Creation of " + sys.argv[1] +
       " project named " + projectName)
