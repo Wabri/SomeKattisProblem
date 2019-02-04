@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 9688 | 30.6 | 0 |
+| [3](#week-3) | 9365 | 32.1 | 1 |
 
 ----------------------------------------------------
 
@@ -93,4 +93,5 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *4* | [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) |
+
 --------------------------------------------------
