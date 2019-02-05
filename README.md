@@ -46,7 +46,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Spavanac](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
 | [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
 | [Pet](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
-
+| [NastyHacks](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 --------------------------------------------------
 
 ## Weeks
@@ -93,5 +93,5 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *4* | [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) |
-
+| 1 | *5* | [NastyHacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) |
 --------------------------------------------------
