@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 9365 | 32.1 | 1 |
+| [3](#week-3) | 8754 | 33.5 | 2 |
 
 ----------------------------------------------------
 
