@@ -18,6 +18,10 @@ import sys
 # 2 -> auto get number of week problem
 # 3 -> auto get number of day of the week
 
+fetch = ""
+while (fetch=="YES"):
+	fetch = input("Did you pull from origin?")
+
 projectName = sys.argv[2]
 kattisName = sys.argv[3]
 
