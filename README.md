@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 8754 | 33.5 | 2 |
+| [3](#week-3) | 8754 | 34.8 | 3 |
 
 ----------------------------------------------------
 
@@ -44,9 +44,10 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Trik](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | [Speed Limit](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
 | [Spavanac](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
-| [ProvincesAndGold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
+| [Provinces And Gold](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) | [Week 2](#week-2) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/provincesandgold) |
 | [Pet](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
-| [NastyHacks](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
+| [Nasty Hacks](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
+| [License To Launch](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
 
 --------------------------------------------------
 
@@ -86,7 +87,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 7 | *2* | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Trik/src/Main.java) |
 | 8 | *2* | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SpeedLimit/src/Main.java) |
 | 9 | *3* | [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Spavanac/src/Main.java) |
-| 10 | *3* | [ProvincesAndGold](https://open.kattis.com/problems/provincesandgold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) |
+| 10 | *3* | [Provinces And Gold](https://open.kattis.com/problems/provincesandgold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) |
 
 ### Week 3
 *4 Febbruary 2019 - 10 February 2019*
@@ -94,6 +95,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *4* | [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) |
-| 1 | *5* | [NastyHacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) |
+| 1 | *5* | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) |
+| 2 | *5* | [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) |
 
 --------------------------------------------------
