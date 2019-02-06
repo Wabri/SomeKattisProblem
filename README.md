@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 8754 | 34.8 | 3 |
+| [3](#week-3) | 8754 | 36.0 | 4 |
 
 ----------------------------------------------------
 
@@ -48,6 +48,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Pet](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | [Nasty Hacks](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | [License To Launch](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
+| [Ladder](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
 
 --------------------------------------------------
 
@@ -97,5 +98,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 0 | *4* | [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Pet/src/Main.java) |
 | 1 | *5* | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) |
 | 2 | *5* | [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) |
+| 3 | *6* | [Ladder](https://open.kattis.com/problems/ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) |
 
 --------------------------------------------------
