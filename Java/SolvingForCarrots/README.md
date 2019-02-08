@@ -10,6 +10,7 @@ on a single line, denoting the number of contestants in the contest and the numb
 
 ## Output
 Output should consist of a single integer: the number of carrots that will be handed out during the contest.
+
 Sample Input 1
 ```
 2 1
