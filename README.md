@@ -4,7 +4,6 @@ I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](h
 
 Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
 
-
 ###### *All the kattis problem are ~2300, so I will complete the challenge in 2025, if everything goes ok*
 
 --------------------------------------------------
@@ -50,6 +49,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Nasty Hacks](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | [License To Launch](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/licensetolaunch) |
 | [Ladder](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
+| [IsItHalloween](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween) |
 
 --------------------------------------------------
 
@@ -100,5 +100,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *5* | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/NastyHacks/src/Main.java) |
 | 2 | *5* | [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/LicenseToLaunch/src/Main.java) |
 | 3 | *6* | [Ladder](https://open.kattis.com/problems/ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) |
+| 4 | *8* | [IsItHalloween](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) |
 
 --------------------------------------------------
