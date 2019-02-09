@@ -52,6 +52,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [IsItHalloween](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween) |
 | [HeartRate](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | [HarshadNumbers](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
+| [GrassSeedInc.](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc.) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 
 --------------------------------------------------
 
@@ -105,5 +106,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 4 | *8* | [IsItHalloween](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) |
 | 5 | *9* | [HeartRate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) |
 | 6 | *9* | [HarshadNumbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) |
+| 7 | *9* | [GrassSeedInc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) |
 
 --------------------------------------------------
