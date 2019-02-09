@@ -51,6 +51,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Ladder](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
 | [IsItHalloween](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween) |
 | [HeartRate](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
+| [HarshadNumbers](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
 
 --------------------------------------------------
 
@@ -103,5 +104,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 3 | *6* | [Ladder](https://open.kattis.com/problems/ladder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Ladder/src/Main.java) |
 | 4 | *8* | [IsItHalloween](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/IsItHalloween/src/Main.java) |
 | 5 | *9* | [HeartRate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) |
+| 6 | *9* | [HarshadNumbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) |
 
 --------------------------------------------------
