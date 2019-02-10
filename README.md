@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 7569 | 41.4 | 8 |
+| [3](#week-3) | 7569 | 42.9 | 9 |
 
 ----------------------------------------------------
 
@@ -53,6 +53,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Heart Rate](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | [Harshad Numbers](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
 | [Grass Seed Inc.](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc.) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
+| [Free Food](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/freefood) |
 
 --------------------------------------------------
 
@@ -107,5 +108,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 5 | *9* | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HeartRate/src/Main.java) |
 | 6 | *9* | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) |
 | 7 | *9* | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) |
+| 8 | *10* | [Free Food](https://open.kattis.com/problems/freefood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) |
 
 --------------------------------------------------
