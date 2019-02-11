@@ -55,6 +55,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Harshad Numbers](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/harshadnumbers) |
 | [Grass Seed Inc.](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc.) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 | [Free Food](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/freefood) |
+| [Datum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum) |
 
 --------------------------------------------------
 
@@ -116,5 +117,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
+| 0 | *11* | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) |
 
 --------------------------------------------------
