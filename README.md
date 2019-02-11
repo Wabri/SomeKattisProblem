@@ -14,7 +14,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 7569 | 42.9 | 9 |
+| [3](#week-3) | 7188 | 42.9 | 9 |
+| [4](#week-4) | 7188 | 42.9 | 0 |
 
 ----------------------------------------------------
 
@@ -109,5 +110,11 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 6 | *9* | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/HarshadNumbers/src/Main.java) |
 | 7 | *9* | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) |
 | 8 | *10* | [Free Food](https://open.kattis.com/problems/freefood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) |
+
+### Week 4
+*11 Febbruary 2019 - 17 February 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
 
 --------------------------------------------------
