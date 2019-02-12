@@ -15,7 +15,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [1](#week-1) | 14724 | 16.7 | 13 |
 | [2](#week-2) | 9688 | 30.6 | 11 |
 | [3](#week-3) | 7188 | 42.9 | 9 |
-| [4](#week-4) | 7188 | 44.1 | 1 |
+| [4](#week-4) | 7030 | 45.4 | 2 |
 
 ----------------------------------------------------
 
@@ -56,6 +56,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Grass Seed Inc.](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc.) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/GrassSeedInc./src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 | [Free Food](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/freefood) |
 | [Datum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum) |
+| [Fizz Buzz](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 
 --------------------------------------------------
 
@@ -118,5 +119,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *11* | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) |
+| 1 | *12* | [Fizz Buzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) |
 
 --------------------------------------------------
