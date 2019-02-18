@@ -121,6 +121,5 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *11* | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) |
 | 1 | *12* | [Fizz Buzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) |
-| 2 | *14* | [DRMMessages](https://open.kattis.com/problems/drmmessages) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DRMMessages/src/Main.java) |
 
 --------------------------------------------------
