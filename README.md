@@ -16,6 +16,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [2](#week-2) | 9688 | 30.6 | 11 |
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
+| [5](#week-5) | 6915 | 45.8 | 0 |
 
 ----------------------------------------------------
 
@@ -57,6 +58,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Free Food](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) | [Week 3](#week-3) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/freefood) |
 | [Datum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum) |
 | [Fizz Buzz](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
+| [Cold-puterScience](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
 
 --------------------------------------------------
 
@@ -120,5 +122,12 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *11* | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Datum/src/Main.java) |
 | 1 | *12* | [Fizz Buzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) |
+
+### Week 5
+*18 Febbruary 2019 - 26 February 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *19* | [Cold-puterScience](https://open.kattis.com/problems/cold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) |
 
 --------------------------------------------------
