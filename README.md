@@ -1,6 +1,4 @@
-# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti)
-
-I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
+# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti) I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
 
 Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
 
@@ -16,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [2](#week-2) | 9688 | 30.6 | 11 |
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
-| [5](#week-5) | 6739 | 48.3 | 2 |
+| [5](#week-5) | 6739 | 49.6 | 3 |
 
 ----------------------------------------------------
 
@@ -60,6 +58,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Fizz Buzz](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) | [Week 4](#week-4) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | [Cold-puter Science](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
 | [Dice Cup](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup) |
+| [Detailed Differences](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 
 --------------------------------------------------
 
@@ -131,5 +130,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *19* | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) |
 | 1 | *19* | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup/src/Main.java) |
+| 2 | *21* | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) |
 
 --------------------------------------------------
