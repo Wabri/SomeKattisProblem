@@ -1,8 +1,12 @@
-# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti) I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
+# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti) 
+
+I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
 
 Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
 
 ###### *All the kattis problem are ~2300, so I will complete the challenge in 2025, if everything goes ok*
+
+###### *If you want some solution just ask me*
 
 --------------------------------------------------
 
