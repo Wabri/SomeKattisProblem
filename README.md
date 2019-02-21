@@ -14,7 +14,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [2](#week-2) | 9688 | 30.6 | 11 |
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
-| [5](#week-5) | 6739 | 49.6 | 3 |
+| [5](#week-5) | 6438 | 50.9 | 4 |
 
 ----------------------------------------------------
 
@@ -59,6 +59,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Cold-puter Science](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
 | [Dice Cup](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup) |
 | [Detailed Differences](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
+| [Cryptographer's Conundrum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
 
 --------------------------------------------------
 
@@ -131,5 +132,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 0 | *19* | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cold-puterScience/src/Main.java) |
 | 1 | *19* | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup/src/Main.java) |
 | 2 | *21* | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) |
+| 3 | *21* | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) |
 
 --------------------------------------------------
