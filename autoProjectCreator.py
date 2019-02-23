@@ -83,11 +83,11 @@ if sys.argv[1] == "java":
                     if steps == 3:
                         # create new line of summery problems
                         linesInFileProject[index -
-                                           1] = newSummaryProblems + "\r\n" * 2
+                                           1] = newSummaryProblems + "\n" * 2
                     if steps == 4:
                         # create new line of week problem
                         linesInFileProject[index -
-                                           1] = newWeekProblem + "\r\n" * 2
+                                           1] = newWeekProblem + "\n" * 2
         with open("README.md", "w") as readme:
             for line in linesInFileProject:
                 print(line, file=readme, end='')
