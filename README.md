@@ -6,7 +6,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 ###### *All the kattis problem are ~2300, so I will complete the challenge in 2025, if everything goes ok*
 
-###### *If you want some solution just ask me*
+###### *If you want a solution of a kattis problem just ask me*
 
 --------------------------------------------------
 
@@ -18,7 +18,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [2](#week-2) | 9688 | 30.6 | 11 |
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
-| [5](#week-5) | 6267 | 51.0 | 5 |
+| [5](#week-5) | 6035 | 54.8 | 7 |
 
 ----------------------------------------------------
 
@@ -66,6 +66,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Cryptographer's Conundrum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
 | [Cetvrta](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | [Batter Up](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
+| [Apaxiaaaaaaaaaaaans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 
 --------------------------------------------------
 
@@ -141,5 +142,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 3 | *21* | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) |
 | 4 | *23* | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | 
 | 5 | *24* | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) |
+| 6 | *24* | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) |
 
 --------------------------------------------------
+
