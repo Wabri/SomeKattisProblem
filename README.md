@@ -65,6 +65,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Detailed Differences](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences) |
 | [Cryptographer's Conundrum](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum) |
 | [Cetvrta](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
+| [Batter Up](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 
 --------------------------------------------------
 
@@ -139,5 +140,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 2 | *21* | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) |
 | 3 | *21* | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) |
 | 4 | *23* | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | 
+| 5 | *24* | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) |
 
 --------------------------------------------------
