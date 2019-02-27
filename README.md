@@ -19,6 +19,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
+| [6](#week-6) | 5906 | 56.3 | 1 |
 
 ----------------------------------------------------
 
@@ -67,6 +68,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Cetvrta](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | [Batter Up](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | [Apaxiaaaaaaaaaaaans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
+| [Alphabet Spam](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 
 --------------------------------------------------
 
@@ -132,7 +134,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *12* | [Fizz Buzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) |
 
 ### Week 5
-*18 Febbruary 2019 - 26 February 2019*
+*18 Febbruary 2019 - 24 February 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
@@ -143,6 +145,13 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 4 | *23* | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | 
 | 5 | *24* | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) |
 | 6 | *24* | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) |
+
+### Week 6
+*25 Febbruary 2019 - 3 February 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *27* | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) |
 
 --------------------------------------------------
 
