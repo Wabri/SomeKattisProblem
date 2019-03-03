@@ -19,7 +19,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
-| [6](#week-6) | 5906 | 57.7 | 4 |
+| [6](#week-6) | 5531 | 60.3 | 4 |
 
 ----------------------------------------------------
 
