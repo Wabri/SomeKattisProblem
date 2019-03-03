@@ -19,7 +19,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [3](#week-3) | 7188 | 42.9 | 9 |
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
-| [6](#week-6) | 5906 | 57.7 | 2 |
+| [6](#week-6) | 5906 | 57.7 | 3 |
 
 ----------------------------------------------------
 
@@ -70,7 +70,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Apaxiaaaaaaaaaaaans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | [Alphabet Spam](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | [The Amazing Human Cannonball](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
-| [SumSquaredDigitsFunction](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
+| [Sum Squared Digits Function](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
 
 --------------------------------------------------
 
@@ -154,8 +154,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *27* | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) |
-| 0 | *27* | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) |
-| 2 | *01* | [SumSquaredDigitsFunction](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) |
+| 1 | *27* | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) |
+| 2 | *01* | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) |
 
 --------------------------------------------------
 
