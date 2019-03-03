@@ -70,6 +70,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Apaxiaaaaaaaaaaaans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) | [Week 5](#week-5) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | [Alphabet Spam](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | [The Amazing Human Cannonball](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
+| [SumSquaredDigitsFunction](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
 
 --------------------------------------------------
 
@@ -154,6 +155,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *27* | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AlphabetSpam/src/Main.java) |
 | 0 | *27* | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) |
+| 2 | *01* | [SumSquaredDigitsFunction](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) |
 
 --------------------------------------------------
 
