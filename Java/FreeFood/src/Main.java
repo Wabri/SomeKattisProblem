@@ -7,7 +7,6 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int events = sc.nextInt();
-		int[] days = new int[events];
 		List<Integer> resultDays = new ArrayList<Integer>();
 		while (events > 0) {
 			int left = sc.nextInt();

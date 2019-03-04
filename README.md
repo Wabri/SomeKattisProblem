@@ -73,6 +73,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [The Amazing Human Cannonball](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
 | [Sum Squared Digits Function](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
 | [Symmetric Order](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
+| [caramella](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/caramella) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/caramella/src/Main.python) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/car) |
 
 --------------------------------------------------
 
@@ -160,11 +161,11 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 2 | *01* | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) |
 | 3 | *03* | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder/src/Main.java) |
 
-### Week 6
+### Week 7
 *04 March 2019 - 10 March 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
+| 10 | *2* | [caramella](https://open.kattis.com/problems/car) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/caramella/src/Main.python) |
 
 --------------------------------------------------
-

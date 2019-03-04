@@ -28,70 +28,82 @@ kattisName = sys.argv[3]
 print("Creation of " + sys.argv[1] +
       " project named " + projectName)
 
-if sys.argv[1] == "java":
-    src = "autoProjectCreatorResources/Java"
-    dest = "Java/" + projectName
-    try:
-        shutil.copytree(src, dest)
-        os.chdir(dest)
-        linesInFileProject = ""
+src = ""
+dest = ""
+lang = ""
+if sys.argv[1] == "java" or sys.argv[1] == "j":
+    lang = "java"
+    src = "autoProjectCreatorResources/{}".format(lang.capitalize())
+    dest = lang.capitalize()+"/" + projectName
+elif sys.argv[1] == "python" or sys.argv[1] == "py":
+    lang = "python"
+    src = "autoProjectCreatorResources/{}".format(lang.capitalize())
+    dest = lang.capitalize() + "/" + projectName
+else:
+    print("No language with this name")
+    exit()
 
-        # .project eclipse metadata setup
-        with open(".project", "r") as project:
-            linesInFileProject = project.readlines()
-        if '###' in linesInFileProject[2]:
-            linesInFileProject[2] = linesInFileProject[2].replace(
-                '###', projectName)
-        with open(".project", "w") as project:
-            for line in linesInFileProject:
-                print(line, file=project, end='')
+# Creation of metadata of project
+print("Creation of metadata of project")
+try:
+    shutil.copytree(src, dest)
+    os.chdir(dest)
+    linesInFileProject = ""
 
-        # README.md of problem set up
-        with open("README.md", "r") as readme:
-            linesInFileProject = readme.readlines()
-        if '###' in linesInFileProject[0]:
-            linesInFileProject[0] = linesInFileProject[0].replace(
-                '###', projectName)
-        if '###' in linesInFileProject[2]:
-            linesInFileProject[2] = linesInFileProject[2].replace(
-                '###', kattisName)
-        with open("README.md", "w") as readme:
-            for line in linesInFileProject:
-                print(line, file=readme, end='')
+    # README.md set up
+    with open("README.md", "r") as readme:
+        linesInFileProject = readme.readlines()
+    if '###' in linesInFileProject[0]:
+        linesInFileProject[0] = linesInFileProject[0].replace(
+            '###', projectName)
+    if '###' in linesInFileProject[2]:
+        linesInFileProject[2] = linesInFileProject[2].replace(
+            '###', kattisName)
+    with open("README.md", "w") as readme:
+        for line in linesInFileProject:
+            print(line, file=readme, end='')
 
-        # README.md of repository update
-        os.chdir("../../")
-        steps = 0
-        newSummaryProblems = "| [{}]".format(projectName) + \
-            "(https://github.com/Wabri/AKattisProblemPerDay/blob/master/{}/{}) |".format(sys.argv[1].capitalize(), projectName) + \
-            " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.java) |".format(sys.argv[1].capitalize(), projectName) + \
-            " [Week {0}](#week-{0}) |".format(sys.argv[4]) + \
-            " [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/{}) |".format(kattisName)
-        newWeekProblem = "| {} | *{}* |".format(sys.argv[5], sys.argv[6]) + \
-            " [{}](https://open.kattis.com/problems/{}) |".format(projectName, kattisName) + \
-            " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.java) |".format(
-                sys.argv[1].capitalize(), projectName)
-        with open("README.md", "r") as readme:
-            linesInFileProject = readme.readlines()
-            for index in range(len(linesInFileProject)):
-                if "----------------------" in linesInFileProject[index]:
-                    steps += 1
-                    if steps == 1:
-                        continue
-                    if steps == 2:
-                        continue
-                    if steps == 3:
-                        # create new line of summery problems
-                        linesInFileProject[index -
-                                           1] = newSummaryProblems + "\n" * 2
-                    if steps == 4:
-                        # create new line of week problem
-                        linesInFileProject[index -
-                                           1] = newWeekProblem + "\n" * 2
-        with open("README.md", "w") as readme:
-            for line in linesInFileProject:
-                print(line, file=readme, end='')
-    except shutil.Error as e:
-        print('Directory not copied. Error: %s' % e)
-    except OSError as e:
-        print('Directory not copied. Error: %s' % e)
+    os.chdir("../../")
+except shutil.Error as e:
+    print('Directory not copied. Error: %s' % e)
+    exit()
+except OSError as e:
+    print('Directory not copied. Error: %s' % e)
+    exit()
+
+
+# Global README.md setup
+print("Global README.md setup")
+
+newSummaryProblems = "| [{}]".format(projectName) + \
+    "(https://github.com/Wabri/AKattisProblemPerDay/blob/master/{}/{}) |".format(lang.capitalize(), projectName) + \
+    " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.{2}) |".format(lang.capitalize(), projectName, lang) + \
+    " [Week {0}](#week-{0}) |".format(sys.argv[4]) + \
+    " [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/{}) |".format(kattisName)
+newWeekProblem = "| {} | *{}* |".format(sys.argv[5], sys.argv[6]) + \
+    " [{}](https://open.kattis.com/problems/{}) |".format(projectName, kattisName) + \
+    " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.{2}) |".format(
+    lang.capitalize(), projectName, lang)
+
+steps = 0
+with open("README.md", "r") as readme:
+    linesInFileProject = readme.readlines()
+    for index in range(len(linesInFileProject)):
+        if "----------------------" in linesInFileProject[index]:
+            steps += 1
+            if steps == 1:
+                continue
+            if steps == 2:
+                continue
+            if steps == 3:
+                # Create new line of summery problems
+                print("Create new line of summery problems")
+                linesInFileProject[index -
+                                   1] = newSummaryProblems + "\n" * 2
+            if steps == 4:
+                # create new line of week problem
+                print("Create new line of week problems")
+                linesInFileProject[index - 1] = newWeekProblem + "\n" * 2
+with open("README.md", "w") as readme:
+    for line in linesInFileProject:
+        print(line, file=readme, end='')
