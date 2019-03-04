@@ -20,6 +20,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
 | [6](#week-6) | 5531 | 60.3 | 4 |
+| [7](#week-7) | - | - | - |
 
 ----------------------------------------------------
 
@@ -114,7 +115,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 10 | *3* | [Provinces And Gold](https://open.kattis.com/problems/provincesandgold) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/ProvincesAndGold/src/Main.java) |
 
 ### Week 3
-*4 Febbruary 2019 - 10 February 2019*
+*4 February 2019 - 10 February 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
@@ -129,7 +130,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 8 | *10* | [Free Food](https://open.kattis.com/problems/freefood) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FreeFood/src/Main.java) |
 
 ### Week 4
-*11 Febbruary 2019 - 17 February 2019*
+*11 February 2019 - 17 February 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
@@ -137,7 +138,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *12* | [Fizz Buzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/FizzBuzz/src/Main.java) |
 
 ### Week 5
-*18 Febbruary 2019 - 24 February 2019*
+*18 February 2019 - 24 February 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
@@ -150,7 +151,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 6 | *24* | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) |
 
 ### Week 6
-*25 Febbruary 2019 - 3 February 2019*
+*25 February 2019 - 3 February 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
@@ -158,6 +159,12 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *27* | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/AmazingHumanCannonball/src/Main.java) |
 | 2 | *01* | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) |
 | 3 | *03* | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder/src/Main.java) |
+
+### Week 6
+*04 March 2019 - 10 March 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
 
 --------------------------------------------------
 
