@@ -1,4 +1,4 @@
-# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti) 
+# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti)
 
 I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
 
@@ -146,12 +146,12 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *19* | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DiceCup/src/Main.java) |
 | 2 | *21* | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/DetailedDifferences/src/Main.java) |
 | 3 | *21* | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/CryptographersConundrum/src/Main.java) |
-| 4 | *23* | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) | 
+| 4 | *23* | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Cetvrta/src/Main.java) |
 | 5 | *24* | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/BatterUp/src/Main.java) |
 | 6 | *24* | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/Apaxiaaaaaaaaaaaans/src/Main.java) |
 
 ### Week 6
-*25 February 2019 - 3 February 2019*
+*25 February 2019 - 3 March 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
