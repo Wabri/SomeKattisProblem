@@ -2,9 +2,6 @@ import os
 import shutil
 import sys
 
-# test use:
-# python3 autoProjectCreator.py java test test 2 9 44
-
 # argv[x]
 # 1 -> project language
 # 2 -> project name lower
