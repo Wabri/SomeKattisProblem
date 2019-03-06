@@ -28,12 +28,14 @@ print("Creation of " + sys.argv[1] +
 src = ""
 dest = ""
 lang = ""
+extension = ""
 if sys.argv[1] == "java" or sys.argv[1] == "j":
-    lang = "java"
+    lang = extension = "java"
     src = "autoProjectCreatorResources/{}".format(lang.capitalize())
     dest = lang.capitalize()+"/" + projectName
 elif sys.argv[1] == "python" or sys.argv[1] == "py":
     lang = "python"
+    extension = "py"
     src = "autoProjectCreatorResources/{}".format(lang.capitalize())
     dest = lang.capitalize() + "/" + projectName
 else:
@@ -74,13 +76,13 @@ print("Global README.md setup")
 
 newSummaryProblems = "| [{}]".format(projectName) + \
     "(https://github.com/Wabri/AKattisProblemPerDay/blob/master/{}/{}) |".format(lang.capitalize(), projectName) + \
-    " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.{2}) |".format(lang.capitalize(), projectName, lang) + \
+    " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.{2}) |".format(lang.capitalize(), projectName, extension) + \
     " [Week {0}](#week-{0}) |".format(sys.argv[4]) + \
     " [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/{}) |".format(kattisName)
 newWeekProblem = "| {} | *{}* |".format(sys.argv[5], sys.argv[6]) + \
     " [{}](https://open.kattis.com/problems/{}) |".format(projectName, kattisName) + \
     " [{0}](https://github.com/Wabri/AKattisProblemPerDay/blob/master/{0}/{1}/src/Main.{2}) |".format(
-    lang.capitalize(), projectName, lang)
+    lang.capitalize(), projectName, extension)
 
 steps = 0
 with open("README.md", "r") as readme:
