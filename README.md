@@ -74,6 +74,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Sum Squared Digits Function](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SumSquaredDigitsFunction/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumsquareddigits) |
 | [Symmetric Order](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
 | [Star Arrangements](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stararrangements) |
+| [No Duplicates](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 
 --------------------------------------------------
 
@@ -167,5 +168,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *05* | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements/src/Main.py) |
+| 1 | *06* | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) |
 
 --------------------------------------------------
