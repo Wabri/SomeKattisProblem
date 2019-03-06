@@ -20,7 +20,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
 | [6](#week-6) | 5531 | 60.3 | 4 |
-| [7](#week-7) | - | - | - |
+| [7](#week-7) | 5227 | 64.2 | 3 |
 
 ----------------------------------------------------
 
@@ -75,6 +75,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Symmetric Order](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder) | [Java](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Java/SymmetricOrder/src/Main.java) | [Week 6](#week-6) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
 | [Star Arrangements](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stararrangements) |
 | [No Duplicates](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
+| [Stand On Zanzibar](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zanzibar) |
 
 --------------------------------------------------
 
@@ -169,5 +170,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *05* | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StarArrangements/src/Main.py) |
 | 1 | *06* | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) |
+| 2 | *06* | [Stand On Zanzibar](https://open.kattis.com/problems/zanzibar) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar/src/Main.py) |
 
 --------------------------------------------------
