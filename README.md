@@ -12,6 +12,10 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 ## Summary Weeks
 
+**Total problem solve=** 50
+
+**Average problem per week:** 1.02
+
 | Week | Rank | Score | Solved |
 | - | - | - | - |
 | [1](#week-1) | 14724 | 16.7 | 13 |
@@ -20,7 +24,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [4](#week-4) | 6891 | 45.7 | 2 |
 | [5](#week-5) | 6035 | 54.8 | 7 |
 | [6](#week-6) | 5531 | 60.3 | 4 |
-| [7](#week-7) | 5227 | 66.0 | 4 |
+| [7](#week-7) | 5025 | 65.7 | 4 |
+| [7](#week-8) | 5025 | 65.7 | 1 |
 
 ----------------------------------------------------
 
@@ -77,6 +82,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [No Duplicates](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | [Stand On Zanzibar](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zanzibar) |
 | [Skener](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skener) |
+| [Seven Wonders](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders/src/Main.py) | [Week 8](#week-8) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 
 --------------------------------------------------
 
@@ -173,5 +179,12 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 1 | *06* | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/NoDuplicates/src/Main.py) |
 | 2 | *06* | [Stand On Zanzibar](https://open.kattis.com/problems/zanzibar) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar/src/Main.py) |
 | 3 | *08* | [Skener](https://open.kattis.com/problems/skener) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener/src/Main.py) |
+
+### Week 8
+*11 March 2019 - 16 March 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *11* | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders/src/Main.py) |
 
 --------------------------------------------------
