@@ -25,7 +25,8 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [5](#week-5) | 6035 | 54.8 | 7 |
 | [6](#week-6) | 5531 | 60.3 | 4 |
 | [7](#week-7) | 5025 | 65.7 | 4 |
-| [8](#week-8) | 5025 | 65.7 | 1 |
+| [8](#week-8) | 5005 | 66.8 | 1 |
+| [8](#week-9) |  |  |  |
 
 ----------------------------------------------------
 
@@ -83,6 +84,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Stand On Zanzibar](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/StandOnZanzibar/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zanzibar) |
 | [Skener](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener/src/Main.py) | [Week 7](#week-7) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skener) |
 | [Seven Wonders](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders/src/Main.py) | [Week 8](#week-8) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
+| [I've Been Everywhere, Man](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) | [Week 9](#week-9) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 
 --------------------------------------------------
 
@@ -181,10 +183,17 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 3 | *08* | [Skener](https://open.kattis.com/problems/skener) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/Skener/src/Main.py) |
 
 ### Week 8
-*11 March 2019 - 16 March 2019*
+*11 March 2019 - 17 March 2019*
 
 | Number | Day | Problem | Solution |
 | - | - | - | - |
 | 0 | *11* | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders/src/Main.py) |
+
+### Week 9
+*18 March 2019 - 24 March 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *22* | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) |
 
 --------------------------------------------------
