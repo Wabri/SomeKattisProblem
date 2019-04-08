@@ -1,8 +1,8 @@
 # AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti)
 
-I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week.
+I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week. **(failed)**
 
-Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c# (one day).
+Mostly of the problems are solved with java, but I want to reproduce every problem with python, c++ and c#. **(one day)**
 
 ###### *All the kattis problem are ~2300, so I will complete the challenge in 2025, if everything goes ok*
 
@@ -11,10 +11,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 --------------------------------------------------
 
 ## Summary Weeks
-
-**Total problem solve=** 50
-
-**Average problem per week:** 1.02
 
 | Week | Rank | Score | Solved |
 | - | - | - | - |
@@ -27,6 +23,9 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [7](#week-7) | 5025 | 65.7 | 4 |
 | [8](#week-8) | 5005 | 66.8 | 1 |
 | [9](#week-9) | 4831 | 69.5 | 2 |
+| [10](#week-10) | 4934 | 70.5 | 0 |
+| [11](#week-11) | 4934 | 70.5 | 0 |
+| [12](#week-12) | 4934 | 70.5 | 0 |
 
 ----------------------------------------------------
 
@@ -197,5 +196,23 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | - | - | - | - |
 | 0 | *22* | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) |
 | 1 | *22* | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans/src/Main.py) |
+
+### Week 10
+*25 March 2019 - 31 March 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+
+### Week 11
+*1 April 2019 - 7 April 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+
+### Week 12
+*8 April 2019 - 14 April 2019*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
 
 --------------------------------------------------
