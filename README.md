@@ -1,4 +1,4 @@
-# AKattisProblemPerDay [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti)
+# SomeKattisProblems [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/users/gabriele-puliti)
 
 I challenged myself to see if I could do 7 (or more) problems of [Open Kattis](https://open.kattis.com) per week. **(failed)**
 
