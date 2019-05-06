@@ -8,25 +8,6 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 
 ###### *If you want a solution of a kattis problem just ask me*
 
---------------------------------------------------
-
-## Summary Weeks
-
-| Week | Rank | Score | Solved |
-| - | - | - | - |
-| [1](#week-1) | 14724 | 16.7 | 13 |
-| [2](#week-2) | 9688 | 30.6 | 11 |
-| [3](#week-3) | 7188 | 42.9 | 9 |
-| [4](#week-4) | 6891 | 45.7 | 2 |
-| [5](#week-5) | 6035 | 54.8 | 7 |
-| [6](#week-6) | 5531 | 60.3 | 4 |
-| [7](#week-7) | 5025 | 65.7 | 4 |
-| [8](#week-8) | 5005 | 66.8 | 1 |
-| [9](#week-9) | 4831 | 69.5 | 2 |
-| [10](#week-10) | 4934 | 70.5 | 0 |
-| [11](#week-11) | 4934 | 70.5 | 0 |
-| [12](#week-12) | 4934 | 70.5 | 0 |
-
 ----------------------------------------------------
 
 ## Summary Problems
@@ -197,22 +178,3 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 0 | *22* | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) |
 | 1 | *22* | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans/src/Main.py) |
 
-### Week 10
-*25 March 2019 - 31 March 2019*
-
-| Number | Day | Problem | Solution |
-| - | - | - | - |
-
-### Week 11
-*1 April 2019 - 7 April 2019*
-
-| Number | Day | Problem | Solution |
-| - | - | - | - |
-
-### Week 12
-*8 April 2019 - 14 April 2019*
-
-| Number | Day | Problem | Solution |
-| - | - | - | - |
-
---------------------------------------------------
