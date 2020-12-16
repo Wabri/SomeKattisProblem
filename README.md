@@ -66,6 +66,7 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | [Seven Wonders](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/SevenWonders/src/Main.py) | [Week 8](#week-8) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | [I've Been Everywhere, Man](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) | [Week 9](#week-9) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | [Roaming Romans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans/src/Main.py) | [Week 9](#week-9) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans) |
+| [Piece Of Cake](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/PieceOfCake) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/PieceOfCake/src/Main.py) | [Week 10](#week-10) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake2) |
 
 --------------------------------------------------
 
