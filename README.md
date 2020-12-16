@@ -178,3 +178,9 @@ Mostly of the problems are solved with java, but I want to reproduce every probl
 | 0 | *22* | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) |
 | 1 | *22* | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans/src/Main.py) |
 
+### Week 10
+*14 december 2020 - 20 december 2020*
+
+| Number | Day | Problem | Solution |
+| - | - | - | - |
+| 0 | *16* | [Piece Of Cake](https://open.kattis.com/problems/pieceofcake2) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/PieceOfCake/src/Main.py) |
