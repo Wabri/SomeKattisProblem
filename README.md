@@ -57,4 +57,5 @@
 | [I've Been Everywhere, Man](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/EverywhereMan/src/Main.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | [Roaming Romans](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/RoamingRomans/src/Main.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/romans) |
 | [Piece Of Cake](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/PieceOfCake) | [Python](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Python/PieceOfCake/src/Main.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake2) |
+| [Odd echo](https://github.com/Wabri/AKattisProblemPerDay/blob/master/Go/Oddecho) | Go | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddecho) |
 
